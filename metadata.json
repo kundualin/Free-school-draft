@@ -1,0 +1,6 @@
+{
+  "name": "Free School",
+  "description": "Free live classes for Bangladeshi students, taught by verified volunteer tutors over Zoom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
